@@ -13,7 +13,7 @@
     "id": "emu",
     "title": "Retro Games",
     "description": "Private retro game collection.",
-    "url": "https://emu.ronlab.site",
+    "url": "https://romm.ronlab.site",
     "category": "Services",
     "type": "subdomain",
     "show_in_sitemap": true,
@@ -185,26 +185,6 @@
     "url": "https://shanty.ronlab.site",
     "category": "Games & Experimental",
     "type": "subdomain",
-    "show_in_sitemap": true,
-    "metadata": {}
-  },
-  {
-    "id": "modpack",
-    "title": "Ron Lab Modpack",
-    "description": "Curated collection of mods for an enhanced Minecraft experience.",
-    "url": "https://drive.google.com/drive/folders/1ktByD3DAhQ_q4QXqc3JjcEOgUtWaC5j9?usp=sharing",
-    "category": "Other",
-    "type": "external",
-    "show_in_sitemap": true,
-    "metadata": {}
-  },
-  {
-    "id": "request-form",
-    "title": "Request Form",
-    "description": "Have a feature request or suggestion? Submit your ideas here.",
-    "url": "https://forms.gle/BwYJrXEqpxPvxcif6",
-    "category": "Other",
-    "type": "external",
     "show_in_sitemap": true,
     "metadata": {}
   },
