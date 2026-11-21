@@ -50,6 +50,26 @@
     "metadata": {}
   },
   {
+    "id": "photos",
+    "title": "Photos",
+    "description": "Personal photo gallery for sharing and organizing images.",
+    "url": "https://photos.ronlab.site",
+    "category": "Services",
+    "type": "subdomain",
+    "show_in_sitemap": true,
+    "metadata": {}
+  },
+  {
+    "id": "music",
+    "title": "Music",
+    "description": "Personal music library for streaming and organizing audio files.",
+    "url": "https://music.ronlab.site",
+    "category": "Services",
+    "type": "subdomain",
+    "show_in_sitemap": true,
+    "metadata": {}
+  },
+  {
     "id": "mc-status",
     "title": "Server Status",
     "description": "Check the status of all Minecraft servers. View player counts and server information.",
