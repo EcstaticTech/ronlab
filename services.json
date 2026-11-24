@@ -102,6 +102,16 @@
     "metadata": {}
   },
   {
+    "id": "Terraria",
+    "title": "Terraria",
+    "description": "Terraria server stats and maps",
+    "url": "https://terraria.ronlab.site",
+    "category": "Minecraft",
+    "type": "subdomain",
+    "show_in_sitemap": true,
+    "metadata": {}
+  },
+  {
     "id": "mc-multimode-java",
     "title": "MultiMode Java",
     "description": "Latest version Java server with multi-mode gameplay support and testing features.",
